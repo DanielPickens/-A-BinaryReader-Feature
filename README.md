@@ -1,6 +1,6 @@
 # -A-BinaryReader-Feature
 My code will allow for the implementation of a BinaryReader to be allowed to perform
-Thsi program will read primitive data types as binary values in a specific encoding.
+functions to read primitive data types as binary values in a specific encoding.
 
 
 
